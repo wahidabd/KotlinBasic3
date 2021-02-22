@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Kotlin Basic 3</string>
+    <string name="username">Username</string>
+    <string name="password">password</string>
+    <string name="konversi">Konversi</string>
+    <string name="title_activity_volume">VolumeActivity</string>
+    <string name="hitung_volume">Hitung Volume</string>
+    <string name="hitung_luas">Hitung Luas</string>
+    <string name="login">LOGIN</string>
+    <string name="lebar">Lebar</string>
+    <string name="hitung">hitung</string>
+    <string name="hasil">Hasil</string>
+    <string name="panjang">Panjang</string>
+    <string name="tinggi">Tinggi</string>
+
+    <string-array name="spinner">
+        <item>Milimeter</item>
+        <item>Centimeter</item>
+        <item>Desimeter</item>
+        <item>Meter</item>
+        <item>Dekameter</item>
+        <item>Hektometer</item>
+        <item>Kilometer</item>
+    </string-array>
+</resources>
